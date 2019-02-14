@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>클래스 테스트</h1>
+    B테스트
 </body>
 </html>
